@@ -14,6 +14,7 @@ that classifies news articles as real or fake.
 ## Dataset
 Fake and Real News Dataset on Kaggle. Download Fake.csv and True.csv and
 upload them to the notebook's folder (or Colab's file panel) before running.
+link: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fclmentbisaillon%2Ffake-and-real-news-dataset
 
 ## Tools
 Python, pandas, NumPy, scikit-learn, TextBlob, matplotlib, seaborn
